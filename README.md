@@ -15,4 +15,4 @@ I am ready to go! 🚙🧳
 
 <img src="https://github.com/user-attachments/assets/30867971-99d9-45ec-b177-c75dfe794faf" alt="First Option" widht="300">
 
-<img src="https://github.com/user-attachments/assets/9263ec08-5efc-466b-9426-488f7fb68057" alt="Second Option" widht="300">
+<img src="https://github.com/user-attachments/assets/da7aa591-28f4-4d48-9694-0b2851e81381" alt="Second Option" widht="300">
