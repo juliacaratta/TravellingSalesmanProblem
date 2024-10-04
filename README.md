@@ -12,6 +12,7 @@ I am ready to go! 🚙🧳
 
 
 ## Possible routes
-![First Option](https://github.com/user-attachments/assets/30867971-99d9-45ec-b177-c75dfe794faf)
 
-![Second Option](https://github.com/user-attachments/assets/e1ed326f-eb51-443c-a33a-b060e9ceb8f5)
+<img src="https://github.com/user-attachments/assets/30867971-99d9-45ec-b177-c75dfe794faf" widht="300">
+
+<img src="https://github.com/user-attachments/assets/e1ed326f-eb51-443c-a33a-b060e9ceb8f5" widht="300">
